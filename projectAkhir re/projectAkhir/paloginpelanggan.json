@@ -1,0 +1,42 @@
+[
+    {
+        "username": "rifqi",
+        "password": "123",
+        "saldo": 313000
+    },
+    {
+        "username": "trirahayu",
+        "password": "123",
+        "saldo": 40000
+    },
+    {
+        "username": "fitriyanti",
+        "password": "789",
+        "saldo": 30000
+    },
+    {
+        "username": "arini",
+        "password": "arini",
+        "saldo": 37000
+    },
+    {
+        "username": "ar",
+        "password": "ar",
+        "saldo": 30000
+    },
+    {
+        "username": "aaa",
+        "password": "aaa",
+        "saldo": 300000
+    },
+    {
+        "username": "ppp",
+        "password": "ppp",
+        "saldo": 70000
+    },
+    {
+        "username": "zzz",
+        "password": "zzz",
+        "saldo": 60000
+    }
+]

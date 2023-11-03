@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nama": "Paracetamol",
+        "kategori": "Pilek",
+        "harga": 5000,
+        "stok": 20
+    },
+    {
+        "id": 2,
+        "nama": "Brufen",
+        "kategori": "Pilek",
+        "harga": 7000,
+        "stok": 15
+    },
+    {
+        "id": 3,
+        "nama": "Dafalgan",
+        "kategori": "Batuk",
+        "harga": 8000,
+        "stok": 20
+    },
+    {
+        "id": 4,
+        "nama": "Promag",
+        "kategori": "Mag",
+        "harga": 5000,
+        "stok": 25
+    },
+    {
+        "id": 5,
+        "nama": "Maxtro",
+        "kategori": "Lambung",
+        "harga": 20000,
+        "stok": 12
+    }
+]
