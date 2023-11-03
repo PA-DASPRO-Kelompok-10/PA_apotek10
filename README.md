@@ -1,12 +1,15 @@
 # PA_apotek10
 
 Nama: Nyoman Arini Trirahayu
+
 NIM: 2309116002
 
-Nama: Fitriyani
+Nama: Fitri yanti
+
 NIM: 2309116016
 
 Nama:Rifqi Hadi Wijaya
+
 NIM: 2309116042
 
 ## Dokumentasi Program Output dan Penjelasan
