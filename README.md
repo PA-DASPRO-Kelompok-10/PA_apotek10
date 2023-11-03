@@ -1,4 +1,4 @@
-# PA_apotek10
+# PA_apotek_kelompok_10
 
 Nama: Nyoman Arini Trirahayu
 
